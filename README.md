@@ -1,2 +1,2 @@
-# HackerNews WebScrapper
-**An implementation of webscrapping in HackerNews website**
+# WebScrapper in Python 
+**An implementation of webscrapping in HackerNews RithmSchool**
